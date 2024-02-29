@@ -105,6 +105,7 @@ Esta tripleta representa la afirmación de que la película "Pulp Fiction" está
 ## Uso de RDF en la Web Semántica:
 RDF es fundamental en el contexto de la web semántica, ya que proporciona un marco para representar el conocimiento de manera estructurada y con significado. Al utilizar RDF, es posible representar información de una manera que las máquinas puedan comprender, lo que facilita el procesamiento automático de la información y la realización de tareas más avanzadas, como la búsqueda semántica, el razonamiento y la integración de datos.
 
+## Razonador 
 Un razonador en inteligencia artificial (IA) es un componente o sistema que permite inferir nuevas conclusiones o respuestas a partir de datos, reglas lógicas y conocimientos previamente establecidos. Su función principal es simular el proceso de razonamiento humano, donde se deducen conclusiones lógicas a partir de premisas dadas.
 
 Los razonadores pueden operar de diversas maneras, dependiendo del tipo de razonamiento que realicen y del contexto en el que se apliquen. Algunos de los enfoques comunes incluyen:
