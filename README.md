@@ -104,3 +104,19 @@ Esta tripleta representa la afirmación de que la película "Pulp Fiction" está
 
 ## Uso de RDF en la Web Semántica:
 RDF es fundamental en el contexto de la web semántica, ya que proporciona un marco para representar el conocimiento de manera estructurada y con significado. Al utilizar RDF, es posible representar información de una manera que las máquinas puedan comprender, lo que facilita el procesamiento automático de la información y la realización de tareas más avanzadas, como la búsqueda semántica, el razonamiento y la integración de datos.
+
+Un razonador en inteligencia artificial (IA) es un componente o sistema que permite inferir nuevas conclusiones o respuestas a partir de datos, reglas lógicas y conocimientos previamente establecidos. Su función principal es simular el proceso de razonamiento humano, donde se deducen conclusiones lógicas a partir de premisas dadas.
+
+Los razonadores pueden operar de diversas maneras, dependiendo del tipo de razonamiento que realicen y del contexto en el que se apliquen. Algunos de los enfoques comunes incluyen:
+
+1. **Razonamiento lógico**: Se basa en principios de lógica formal, como la inferencia deductiva e inductiva, para derivar conclusiones válidas a partir de premisas dadas.
+
+2. **Razonamiento probabilístico**: Utiliza métodos probabilísticos para inferir conclusiones en situaciones donde la incertidumbre es inherente, asignando probabilidades a las hipótesis y actualizándolas en función de la evidencia disponible.
+
+3. **Razonamiento basado en casos**: Se apoya en la analogía con situaciones previamente resueltas para inferir soluciones a problemas nuevos.
+
+4. **Razonamiento basado en reglas**: Emplea un conjunto de reglas o conocimientos codificados en forma de reglas condicionales (si-entonces) para realizar inferencias.
+
+5. **Razonamiento basado en modelos**: Utiliza modelos formales o estructuras de conocimiento para representar el mundo y realizar inferencias sobre él.
+
+Los razonadores son fundamentales en diversas áreas de la IA, como los sistemas expertos, la planificación automatizada, el procesamiento del lenguaje natural y la web semántica. En estas aplicaciones, los razonadores son utilizados para extraer conocimiento útil, tomar decisiones inteligentes y resolver problemas complejos.
