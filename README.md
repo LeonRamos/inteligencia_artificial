@@ -16,7 +16,6 @@ La IA se puede clasificar en dos tipos principales:
 
 ### Ética y Desafíos
 La IA plantea desafíos éticos y sociales, como la privacidad de los datos, la toma de decisiones automatizada y el impacto en el empleo. Además, el desarrollo de la IA también plantea preguntas sobre la responsabilidad y la seguridad, lo que ha llevado a un creciente interés en la ética de la IA.
-En resumen, la inteligencia artificial tiene un gran potencial para transformar numerosos aspectos de la sociedad y la industria, pero también plantea desafíos importantes que deben abordarse de manera cuidadosa y reflexiva.
 
 # Las máquinas inferenciales
 Las máquinas inferenciales son un componente fundamental de la inteligencia artificial. Estas máquinas utilizan reglas lógicas para inferir conclusiones a partir de conjuntos de premisas. La inferencia es el proceso de razonamiento automatizado que permite a las máquinas llegar a conclusiones basadas en la información disponible.
@@ -35,16 +34,15 @@ Los sistemas expertos son programas de computadora que imitan la capacidad de to
 ## Funcionamiento de los Sistemas Expertos:
 
 * Adquisición de Conocimiento: Los sistemas expertos adquieren conocimiento sobre un dominio específico a través de la interacción con expertos humanos o mediante la extracción de información de fuentes confiables.
-Representación del Conocimiento: El conocimiento adquirido se representa en forma de reglas, hechos y relaciones que son utilizados por la máquina inferencial para razonar y tomar decisiones.
-Máquina Inferencial: La máquina inferencial procesa el conocimiento representado y aplica reglas de inferencia para alcanzar conclusiones lógicas.
-Interfaz de Usuario: Los sistemas expertos suelen tener una interfaz que permite a los usuarios interactuar con el sistema, proporcionando información y recibiendo recomendaciones o conclusiones.
+* Representación del Conocimiento: El conocimiento adquirido se representa en forma de reglas, hechos y relaciones que son utilizados por la máquina inferencial para razonar y tomar decisiones.
+* Máquina Inferencial: La máquina inferencial procesa el conocimiento representado y aplica reglas de inferencia para alcanzar conclusiones lógicas.
+* Interfaz de Usuario: Los sistemas expertos suelen tener una interfaz que permite a los usuarios interactuar con el sistema, proporcionando información y recibiendo recomendaciones o conclusiones.
 
-*  Aplicaciones de los Sistemas Expertos:
+## Aplicaciones de los Sistemas Expertos:
 Los sistemas expertos se utilizan en una amplia variedad de aplicaciones, incluyendo:
-
 *  Diagnóstico médico: Ayudan a los médicos a realizar diagnósticos basados en síntomas y resultados de pruebas.
-Soporte a la toma de decisiones: Proporcionan recomendaciones sobre decisiones complejas en áreas como la ingeniería, la gestión de proyectos y la planificación logística.
-Asistencia al cliente: Proporcionan respuestas y soluciones a consultas de clientes en entornos de servicio al cliente.
+* Soporte a la toma de decisiones: Proporcionan recomendaciones sobre decisiones complejas en áreas como la ingeniería, la gestión de proyectos y la planificación logística.
+* Asistencia al cliente: Proporcionan respuestas y soluciones a consultas de clientes en entornos de servicio al cliente.
 
 
 # La web semántica
