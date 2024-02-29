@@ -11,6 +11,7 @@ La IA se ha utilizado en diversas áreas, incluyendo:
 
 ### Tipos de Inteligencia Artificial
 La IA se puede clasificar en dos tipos principales:
+
 * IA débil o estrecha: Diseñada para realizar tareas específicas y limitadas. Ejemplos incluyen reconocimiento de voz, juegos de estrategia, y sistemas de recomendación.
 * IA fuerte o general: Tiene la capacidad de realizar cualquier tarea intelectual que un ser humano pueda hacer. Este tipo de IA todavía se encuentra en desarrollo y es un tema de debate en la comunidad científica.
 
@@ -67,9 +68,9 @@ La web semántica tiene diversas aplicaciones, incluyendo:
 Un ejemplo de uso de la web semántica es la creación de ontologías para representar el conocimiento en un dominio específico, como la medicina o la geografía. Estas ontologías pueden utilizarse para mejorar la interoperabilidad y el intercambio de información entre diferentes sistemas y fuentes de datos.
 La web semántica es un campo en evolución que tiene como objetivo mejorar la forma en que la información es representada, compartida y procesada en la web, permitiendo a las máquinas comprender el significado de los datos y realizar tareas más complejas de manera automática.
 
+## web semántica y la inteligencia artificia
 La web semántica y la inteligencia artificial (IA) están estrechamente relacionadas, ya que ambas se centran en mejorar la comprensión y el procesamiento de la información. La combinación de la web semántica con la IA permite a las máquinas comprender y utilizar el conocimiento presente en la web de una manera más efectiva. A continuación, se presentan algunas formas en las que la web semántica y la IA se complementan:
 Interacción entre la Web Semántica y la Inteligencia Artificial:
-
 
 * Representación del Conocimiento: La web semántica proporciona un marco estructurado para representar el conocimiento de manera significativa, lo que es fundamental para la inteligencia artificial. Los sistemas de IA pueden utilizar ontologías y datos semánticos para comprender el significado y las relaciones entre los conceptos.
 Búsqueda Semántica: La web semántica permite la implementación de motores de búsqueda semántica, que utilizan el significado y el contexto de la información para mejorar la precisión de los resultados de búsqueda. La IA puede potenciar estos motores de búsqueda al utilizar algoritmos de aprendizaje automático para comprender mejor las intenciones de los usuarios.
