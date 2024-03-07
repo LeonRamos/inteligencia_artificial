@@ -9,10 +9,10 @@
 
 # PROCESAMIENTO DEL LENGUAJE NATURAL 
 
-* Libro: "Natural Language Processing in Python" de Bird, Klein y Loper. Este libro es una excelente introducción al procesamiento de lenguaje natural utilizando Python, cubriendo desde conceptos básicos hasta aplicaciones avanzadas.
+* Libro: "Natural Language Processing in Python" de Bird, Klein y Loper. https://tjzhifei.github.io/resources/NLTK.pdf  Este libro es una excelente introducción al procesamiento de lenguaje natural utilizando Python, cubriendo desde conceptos básicos hasta aplicaciones avanzadas.
 
 
-* Curso en Línea: "Natural Language Processing Specialization" en Coursera, impartido por la Universidad de Illinois. Este curso ofrece una visión detallada del procesamiento de lenguaje natural, incluyendo técnicas avanzadas y aplicaciones prácticas.
+* Curso en Línea: "Natural Language Processing Specialization" en Google, https://cloud.google.com/learn/what-is-natural-language-processing?hl=es  Este curso ofrece una visión detallada del procesamiento de lenguaje natural, incluyendo técnicas avanzadas y aplicaciones prácticas.
 
 
-* Artículo de Revisión: "A Survey on Natural Language Processing" publicado en la revista "Procedia Computer Science". Este artículo proporciona una visión general de los desarrollos actuales en el campo del procesamiento de lenguaje natural, abordando desde los enfoques clásicos hasta las tendencias emergentes.
+* Artículo de Revisión: "A Survey on Natural Language Processing" publicado en la revista "Procedia Computer Science" https://arxiv.org/pdf/1811.00770.pdf Este artículo proporciona una visión general de los desarrollos actuales en el campo del procesamiento de lenguaje natural, abordando desde los enfoques clásicos hasta las tendencias emergentes.
