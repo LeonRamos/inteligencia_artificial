@@ -9,7 +9,7 @@
 
 # PROCESAMIENTO DEL LENGUAJE NATURAL 
 
-* Libro: "Natural Language Processing in Python" de Bird, Klein y Loper. https://tjzhifei.github.io/resources/NLTK.pdf  Este libro es una excelente introducción al procesamiento de lenguaje natural utilizando Python, cubriendo desde conceptos básicos hasta aplicaciones avanzadas.
+* Libro: "Natural Language Processing in Python" de Bird, Klein y Loper. https://tjzhifei.github.io/resources/NLTK.pdf  Este libro es una excelente introducción al procesamiento de lenguaje natural utilizando Python, cubriendo desde conceptos básicos hasta aplicaciones avanzadas en el Capitulo 1 de la página 10 a la 27.
 
 
 * Curso en Línea: "Natural Language Processing Specialization" en Google, https://cloud.google.com/learn/what-is-natural-language-processing?hl=es  Este curso ofrece una visión detallada del procesamiento de lenguaje natural, incluyendo técnicas avanzadas y aplicaciones prácticas.
